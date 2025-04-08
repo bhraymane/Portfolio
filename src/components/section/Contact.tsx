@@ -5,11 +5,11 @@ function Contact() {
   return (
       <section id='contact' className="bg-primary/5 max-w-4xl w-full mx-auto  mt-8 py-16">
         <motion.div 
-        initial={{scale:0.8, opacity:0 }}
-        whileInView={{scale:1,opacity:1}}
+        initial={{ opacity:0 }}
+        whileInView={{opacity:1}}
         transition={{
-            duration:1,
-            delay:0.6,
+            duration:0.6,
+            delay:0.5,
             type:'spring'
         }}
         viewport={{
