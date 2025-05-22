@@ -46,17 +46,6 @@ function ServiceSecond() {
       ]
     },
     {
-      icon: Laptop,
-      title: "Custom Solutions",
-      description: "Building tailored web applications that meet your specific business needs and requirements.",
-      features: [
-        "Requirement analysis",
-        "Bespoke development",
-        "Workflow automation",
-        "Legacy system modernization"
-      ]
-    },
-    {
       icon: Globe2,
       title: "Responsive Design",
       description: "Ensuring your website looks and functions perfectly across all devices and screen sizes.",

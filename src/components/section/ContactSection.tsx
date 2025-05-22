@@ -61,9 +61,9 @@ const ContactSection = () => {
               </div>
               <div className="ml-4">
                 <h3 className="text-sm font-medium text-primary">Email</h3>
-                <p className="mt-1 text-sm text-gray-600 dark:text-gray-300">contact@aymanebachar.com</p>
+                <p className="mt-1 text-sm text-gray-600 dark:text-gray-300">bhr.ayman7@gmail.com</p>
                 <a 
-                  href="mailto:contact@aymanebachar.com" 
+                  href="mailto:bhr.ayman7@gmail.com" 
                   className="mt-2 inline-flex items-center text-xs font-medium text-primary/45 hover:text-primary "
                 >
                   Send a message
@@ -80,9 +80,9 @@ const ContactSection = () => {
               </div>
               <div className="ml-4">
                 <h3 className="text-sm font-medium text-primary">Phone</h3>
-                <p className="mt-1 text-sm text-gray-600 dark:text-gray-300">+1 (123) 456-7890</p>
+                <p className="mt-1 text-sm text-gray-600 dark:text-gray-300">+212 0652642028 </p>
                 <a 
-                  href="tel:+11234567890" 
+                  href="tel:+2120652642028" 
                   className="mt-2 inline-flex items-center text-xs font-medium text-primary/45 hover:text-primary "
                 >
                   Call now
