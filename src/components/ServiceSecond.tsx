@@ -1,5 +1,5 @@
 import React from 'react';
-import { Code2, Search, Laptop, Rocket,  Globe2, CircleCheck  } from 'lucide-react';
+import { Code2, Search, Rocket,  Globe2, CircleCheck  } from 'lucide-react';
 
 function ServiceCard({ icon: Icon, title, description,features }: { icon: React.ElementType, title: string, description: string ,features: string[] }) {
   return (
