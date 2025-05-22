@@ -62,7 +62,7 @@ function About() {
             height={90}
             className='max-md:hidden '
             />
-            <Link  href="/cv-no.pdf"   target='_blank' className='text-primary self-end flex gap-2 justify-center items-center px-8 py-3 text-sm rounded-xl border-2 border-primary hover:scale-105 transition-all '>
+            <Link  href="/prcv.pdf"   target='_blank' className='text-primary self-end flex gap-2 justify-center items-center px-8 py-3 text-sm rounded-xl border-2 border-primary hover:scale-105 transition-all '>
                 <PiDownloadSimpleBold />
                 Download CV
             </Link>
